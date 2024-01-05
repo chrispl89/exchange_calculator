@@ -1,1 +1,1 @@
-# exchange_calculator
+This program is a calculator that converts how much PLN I will get by exchanging the indicated amount of the selected currency. The data is read directly from the API of the National Bank of Poland, where it is updated on a regular basis.
